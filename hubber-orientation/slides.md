@@ -188,7 +188,7 @@ transition: fade-out
 # What is GitHub Copilot? (3/3)
 
 ### You can use GitHub Copilot on GitHub dotcom.
-### talk to your repos, create docs, draft PRs, inquire about issues and more.
+### Talk to your repos, create docs, draft PRs, inquire about issues and more.
 
 <br>
 
