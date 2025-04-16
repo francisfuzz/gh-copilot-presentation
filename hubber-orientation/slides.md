@@ -68,6 +68,12 @@ layout: intro
 transition: fade-out
 ---
 
+# Icebreaker
+
+- Go to https://github.com/copilot
+- Tell Copilot something you did this week and write a song about it in the style of your favorite artist
+- "I shipped a new layout for the user dashboard. Write a song about it in the style of Bruno Mars.
+
 # Where we're going:
 
 ## [time in minutes] topic
