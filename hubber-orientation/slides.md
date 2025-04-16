@@ -488,7 +488,7 @@ layout: center
 
 # Questions & Answers
 
-The floors is yours! 🎤
+The floor is yours! 🎤
 
 <style>
 h1 {
