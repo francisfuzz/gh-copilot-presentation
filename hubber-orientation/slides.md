@@ -64,7 +64,6 @@ I invite you to learn more about GitHub Copilot and how you can make the most ou
 -->
 
 ---
-layout: intro
 transition: fade-out
 ---
 
@@ -72,17 +71,21 @@ transition: fade-out
 
 - Go to https://github.com/copilot
 - Tell Copilot something you did this week and write a song about it in the style of your favorite artist
-- "I shipped a new layout for the user dashboard. Write a song about it in the style of Bruno Mars.
+- "I shipped a new layout for the user dashboard. Write a song about it in the style of Bruno Mars."
+
+---
+transition: fade-out
+---
 
 # Where we're going:
 
-## [time in minutes] topic
+## Topic (est. time in minutes)
 
-- [4] What is GitHub Copilot?
-- [4] Copilot's Suite of Features
-- [10] Live Demos (+ access / installation)
-- [5] Resources
-- [35] Q&A
+- What is GitHub Copilot? (4)
+- Copilot's Suite of Features (4)
+- Live Demos, Access, Installation (10)
+- Resources (5)
+- Q&A (35)
 
 <style>
 h1 {
