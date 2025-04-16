@@ -38,7 +38,6 @@ transition: fade-out
 - Husband and Father 💍 👶
 - Pilipino descent, based in Southern California 🏄‍♂️
 - Senior Software Engineer, New User Experience team 🍄
-- Committed to completing an Ironman 70.3 in December 2024 💪
 
 <br>
 
