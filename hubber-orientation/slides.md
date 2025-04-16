@@ -454,13 +454,11 @@ transition: fade-out
 
 # Resources
 
-- [Coding with an AI Pair Programmer](https://youtu.be/dhfTaSGYQ4o?si=wdhu3C7uwG5cqX0K)
-- [What's new with GitHub Copilot from VsCode team](https://twitter.com/code/status/1737903911237718467)
+- [GitHub Certifications: GitHub Copilot](https://examregistration.github.com/certification/COPILOT)
+- [Get Started with GitHub Copilot in VS Code (2025)](https://www.youtube.com/watch?v=vdBxfFVXnc0)
 - [How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 - [Prompting GitHub Copilot Chat to become your personal AI assistant for accessibility](https://github.blog/2023-10-09-prompting-github-copilot-chat-to-become-your-personal-ai-assistant-for-accessibility/)
 - [How to build a GPT-3 App with Nextjs, React, and GitHub Copilot](https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/)
-- [Demo repo - MealMetrics](https://github.com/LadyKerr/mealmetrics-copilot)
-- [Code Smarter not Harder slides and repo](https://github.com/LadyKerr/gh-copilot-talk)
 
 <br>
 <br>
