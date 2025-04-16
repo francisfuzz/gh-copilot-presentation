@@ -2,7 +2,7 @@
 
 This directory contains the Hubber Orientation presentation. Follow the instructions below to set up and run the presentation.
 
-This presentation is built using [slidev]().
+This presentation is built using [slidev](https://sli.dev/).
 
 ## Prerequisites
 
