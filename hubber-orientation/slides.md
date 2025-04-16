@@ -64,19 +64,28 @@ I invite you to learn more about GitHub Copilot and how you can make the most ou
 -->
 
 ---
-layout: intro
+transition: fade-out
+---
+
+# Icebreaker
+
+- Go to https://github.com/copilot
+- Tell Copilot something you did this week and write a song about it in the style of your favorite artist
+- "I shipped a new layout for the user dashboard. Write a song about it in the style of Bruno Mars."
+
+---
 transition: fade-out
 ---
 
 # Where we're going:
 
-## [time in minutes] topic
+## Topic (est. time in minutes)
 
-- [4] What is GitHub Copilot?
-- [4] Copilot's Suite of Features
-- [10] Live Demos (+ access / installation)
-- [5] Resources
-- [35] Q&A
+- What is GitHub Copilot? (4)
+- Copilot's Suite of Features (4)
+- Live Demos, Access, Installation (10)
+- Resources (5)
+- Questions & Pointers (35)
 
 <style>
 h1 {
@@ -179,7 +188,7 @@ transition: fade-out
 # What is GitHub Copilot? (3/3)
 
 ### You can use GitHub Copilot on GitHub dotcom.
-### talk to your repos, create docs, draft PRs, inquire about issues and more.
+### Talk to your repos, create docs, draft PRs, inquire about issues and more.
 
 <br>
 
@@ -445,13 +454,11 @@ transition: fade-out
 
 # Resources
 
-- [Coding with an AI Pair Programmer](https://youtu.be/dhfTaSGYQ4o?si=wdhu3C7uwG5cqX0K)
-- [What's new with GitHub Copilot from VsCode team](https://twitter.com/code/status/1737903911237718467)
+- [GitHub Certifications: GitHub Copilot](https://examregistration.github.com/certification/COPILOT)
+- [Get Started with GitHub Copilot in VS Code (2025)](https://www.youtube.com/watch?v=vdBxfFVXnc0)
 - [How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 - [Prompting GitHub Copilot Chat to become your personal AI assistant for accessibility](https://github.blog/2023-10-09-prompting-github-copilot-chat-to-become-your-personal-ai-assistant-for-accessibility/)
 - [How to build a GPT-3 App with Nextjs, React, and GitHub Copilot](https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/)
-- [Demo repo - MealMetrics](https://github.com/LadyKerr/mealmetrics-copilot)
-- [Code Smarter not Harder slides and repo](https://github.com/LadyKerr/gh-copilot-talk)
 
 <br>
 <br>
@@ -477,9 +484,9 @@ transition: fade-out
 layout: center
 ---
 
-# Questions & Answers
+# Questions & Pointers
 
-The floors is yours! 🎤
+The floor is yours! 🎤
 
 <style>
 h1 {
