@@ -85,7 +85,7 @@ transition: fade-out
 - Copilot's Suite of Features (4)
 - Live Demos, Access, Installation (10)
 - Resources (5)
-- Q&A (35)
+- Questions & Pointers (35)
 
 <style>
 h1 {
@@ -486,7 +486,7 @@ transition: fade-out
 layout: center
 ---
 
-# Questions & Answers
+# Questions & Pointers
 
 The floor is yours! 🎤
 
