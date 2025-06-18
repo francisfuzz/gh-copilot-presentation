@@ -70,8 +70,7 @@ transition: fade-out
 # Icebreaker
 
 - Go to https://github.com/copilot
-- Tell Copilot something you did this week and write a song about it in the style of your favorite artist
-- "I shipped a new layout for the user dashboard. Write a song about it in the style of Bruno Mars."
+- In the input, tell Copilot something you did this week and write a song about it in the style of your favorite artist
 
 ---
 transition: fade-out
