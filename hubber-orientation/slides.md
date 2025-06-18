@@ -264,7 +264,7 @@ transition: fade-out
 
 - "Dev" Demo
   - 🍔 Exploring a codebase
-  - 🍟 Validating an email address
+  - 🍟 Writing a `Food` class
 - "For Everyone" Demo: generating great questions
 
 <style>
